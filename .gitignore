@@ -1,0 +1,14 @@
+# Local-only agent files — contract, learner memory, eval drills. Not for public eyes.
+PROGRESS.md
+AGENTS.md
+CLAUDE.md
+EVALS.md
+
+# Rust build output
+target/
+
+# Env / editor
+.env
+.DS_Store
+.idea/
+.vscode/
